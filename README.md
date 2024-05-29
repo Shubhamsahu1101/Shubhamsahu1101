@@ -1,7 +1,7 @@
 # <div align="center">Greetings! I'm Shubham, a Flutter and MERN Stack developer.</div>  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning Java.
   
 
 - ⚡ Fun fact: I enjoy giving contests on Codeforces.  
