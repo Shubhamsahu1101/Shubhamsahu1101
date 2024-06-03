@@ -1,10 +1,10 @@
-# <div align="center">Greetings! I'm Shubham, a Flutter and MERN Stack developer.</div>  
+# <div align="center">Hey! I'm Shubham, a Flutter and MERN Stack developer.</div>  
   
 
-- 🌱 I’m currently learning Java.
+- 🌱 On a never-ending journey to master the language of 0s and 1s.
   
 
-- ⚡ Fun fact: I enjoy giving contests on Codeforces.  
+- ⚡ I enjoy giving contests on Codeforces.  
   
 
 <br/>  
